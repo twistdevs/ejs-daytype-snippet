@@ -1,0 +1,1 @@
+# ejs-daytype-snippet
